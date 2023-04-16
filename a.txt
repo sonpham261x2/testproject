@@ -1,7 +1,4 @@
 nda
-<<<<<<< HEAD
 
 suabeta
-=======
 suamaster
->>>>>>> 07e17d0 (D1)
